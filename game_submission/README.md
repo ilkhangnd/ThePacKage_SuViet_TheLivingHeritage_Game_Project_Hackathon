@@ -6,7 +6,7 @@ Sử Việt – The Living Heritage is an interactive educational game aimed at 
 
 ## Demo Video
 
-[![Sử Việt – The Living Heritage Demo](https://youtu.be/HgMCsAUvx5Q)]
+[Sử Việt – The Living Heritage Demo](https://youtu.be/HgMCsAUvx5Q)
 
 *Watch the video demonstration*
 
