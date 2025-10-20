@@ -76,8 +76,7 @@ We welcome all contributions to improve the game and educational content:
 
 ## Development Team
 
-Team ThePacKage - Coral City Builder Game Project Hackathon
-
+Team ThePacKage - Su Viet, The Living Heritage 
 ## License
 
 © 2025 SỬ VIỆT - THE LIVING HERITAGE - All Rights Reserved.
