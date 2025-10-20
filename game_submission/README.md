@@ -43,8 +43,10 @@ According to surveys, over 60% of Vietnamese youth are unaware of local cultural
 
 ## Installation Guide
 
-1. Clone repository:
+1. Clone repository: git clone https://github.com/yourusername/ThePacKage_Coral_City_Builder_Game_Project_Hackathon.git
 2. Open the index.html file in a web browser:
+  cd ThePacKage_Coral_City_Builder_Game_Project_Hackathon/game_submission/game_app/
+  open index.html  # hoặc mở bằng trình duyệt web của bạn
 3. To experience the full AI Assistant functionality, provide Azure OpenAI API key in the AI_CONFIG section of the JavaScript file.
 
 ## Historical Periods
